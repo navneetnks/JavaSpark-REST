@@ -324,7 +324,13 @@
       <option name="project" value="LOCAL" />
       <updated>1455373308043</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Documentation is updated">
+      <created>1455373595887</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1455373595887</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -362,7 +368,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="folder renaming" />
     <MESSAGE value="Documentation file is added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Documentation file is added" />
+    <MESSAGE value="Documentation is updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="Documentation is updated" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
